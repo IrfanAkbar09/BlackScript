@@ -1,0 +1,2 @@
+# BlackScript
+Saya orang
